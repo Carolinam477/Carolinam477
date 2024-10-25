@@ -1,3 +1,5 @@
+Hola, Soy Carolina.
+
 # 💫 About Me:
 QA Engineer manual apasionada por la calidad y la resolución de problemas; Con sólidos conocimientos<br><br>en diseño y ejecución de pruebas de software, como la creación casos de prueba efectivos<br><br>basados en técnicas de análisis, clases de equivalencia, valores límite y práctica básica en<br><br>automatización de pruebas en aplicaciones web y móviles.<br><br>¡Me encanta encontrar bugs para crear productos de alta calidad!
 
