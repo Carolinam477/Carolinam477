@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/8d9e747d-3cb6-4d2c-9707-1e50878b8cab)
+
+
 # 💫 About Me:
 ¡ Hola Bienvenido! <br><br>Soy Carolina<br><br>⚡ QA Engineer manual apasionada por la calidad y la resolución de problemas.<br>🌱Con sólidos conocimientos en diseño y ejecución de pruebas de software, como la creación casos de prueba efectivos<br>     basados en técnicas de análisis, clases de equivalencia, valores límite. <br>💬 Práctica básica en automatización de pruebas en aplicaciones web y móviles.<br>🤝 ¡Me encanta encontrar bugs para crear productos de alta calidad!<br>
 
