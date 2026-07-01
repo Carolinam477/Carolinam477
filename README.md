@@ -6,8 +6,7 @@
 
 ¡Hola! Bienvenido a mi espacio.
 
-Soy Carolina, una profesional con experiencia en **Reporting y Operaciones**, actualmente enfocada en mi transición y especialización en el mundo de los Datos.
-
+Soy Carolina, una profesional con experiencia en Reporting y Operaciones. Actualmente, me encuentro en una etapa de especialización intensiva en Data Analytics a través del bootcamp de Neoland, combinando mi base operativa con herramientas avanzadas de análisis y visualización
 
  ⚡Experiencia: Especialista en el diseño y seguimiento de KPIs y métricas clave, asegurando la calidad y precisión en el control operativo. <br>🌱Enfoque técnico:Experta en la gestión y análisis de bases de datos para transformar volúmenes de información en informes claros y accionables.<br>🤝 Objetivo :Potenciar mis competencias en Data Analytics para automatizar procesos, mejorar la visualización de datos y seguir aportando valor estratégico a través del análisis.<br>
 
