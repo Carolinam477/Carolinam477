@@ -2,12 +2,19 @@
 
 
 # 💫 About Me:
-¡Hola! Bienvenida/o a mi espacio. Soy una profesional con experiencia en **Reporting y Operaciones**, actualmente enfocada en mi transición y especialización en el mundo de los **Datos**.
 
-⚡ **Mi enfoque:** Me especializo en limpiar, transformar y visualizar datos para ayudar a tomar decisiones más inteligentes y claras.
-🌱 **En constante aprendizaje:** Estoy ampliando mis habilidades en el análisis de datos, perfeccionando mis dashboards y explorando nuevas formas de contar historias a través de los datos.
-🤝 **Mi objetivo:** Aportar valor real a través de la interpretación de la información y seguir construyendo soluciones que faciliten el trabajo diario.
+¡Hola! Bienvenido a mi espacio. 
 
+Soy Carolina, una profesional con experiencia en **Reporting y Operaciones**, actualmente enfocada en mi transición y especialización en el mundo de los **Datos**.
+
+  <li>⚡ **Mi enfoque:** Me especializo en limpiar, transformar y visualizar datos para ayudar a tomar decisiones más inteligentes y claras.</li>
+  <br>
+  <li>🌱 **En constante aprendizaje:** Estoy ampliando mis habilidades en el análisis de datos, perfeccionando mis dashboards y explorando nuevas formas de contar historias a través de los datos.</li>
+  <br>
+  <li>🤝 **Mi objetivo:** Aportar valor real a través de la interpretación de la información y seguir construyendo soluciones que faciliten el trabajo diario.</li>
+</ul>
+
+<br>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Carolinam477) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dahiancarolinamuñozcelis) 
 
@@ -37,16 +44,18 @@
 
 ## 📫 Conectemos
 
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/dahiancarolinamuñozcelis">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</p>
+
+<p align="center">
+  📍 <strong>Alicante, España</strong>
+</p>
 
 <br>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Carolinam477&icon=0&color=0" />
 </p>
-
-<p align="center">📍 Alicante, España</p>
