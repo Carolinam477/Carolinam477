@@ -4,9 +4,9 @@
 
 # 💫 About Me:
 
-¡Hola! Bienvenido a mi espacio. 
+¡Hola! Bienvenido a mi espacio.
 
-Soy Carolina, una profesional con experiencia en **Reporting y Operaciones**, actualmente enfocada en mi transición y especialización en el mundo de los **Datos**.
+Soy Carolina, una profesional con experiencia en **Reporting y Operaciones**, actualmente enfocada en mi transición y especialización en el mundo de los Datos.
 
   ⚡Mi enfoque: Me especializo en limpiar, transformar y visualizar datos para ayudar a tomar decisiones más inteligentes y claras.</li>
   <br>
