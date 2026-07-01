@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/8d9e747d-3cb6-4d2c-9707-1e50878b8cab)
+<p align="center">
+  <img src="URL_DE_TU_IMAGEN_AQUI" alt="Banner Data Analytics" width="100%">
+</p>
 
 
 # 💫 About Me:
@@ -7,11 +9,11 @@
 
 Soy Carolina, una profesional con experiencia en **Reporting y Operaciones**, actualmente enfocada en mi transición y especialización en el mundo de los **Datos**.
 
-  <li>⚡ **Mi enfoque:** Me especializo en limpiar, transformar y visualizar datos para ayudar a tomar decisiones más inteligentes y claras.</li>
+  ⚡Mi enfoque: Me especializo en limpiar, transformar y visualizar datos para ayudar a tomar decisiones más inteligentes y claras.</li>
   <br>
-  <li>🌱 **En constante aprendizaje:** Estoy ampliando mis habilidades en el análisis de datos, perfeccionando mis dashboards y explorando nuevas formas de contar historias a través de los datos.</li>
+  🌱 En constante aprendizaje: Estoy ampliando mis habilidades en el análisis de datos, perfeccionando mis dashboards y explorando nuevas formas de contar historias a través de los datos.</li>
   <br>
-  <li>🤝 **Mi objetivo:** Aportar valor real a través de la interpretación de la información y seguir construyendo soluciones que faciliten el trabajo diario.</li>
+  🤝Mi objetivo: Aportar valor real a través de la interpretación de la información y seguir construyendo soluciones que faciliten el trabajo diario.</li>
 </ul>
 
 <br>
