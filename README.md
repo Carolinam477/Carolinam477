@@ -28,15 +28,23 @@ Soy Carolina, una profesional con experiencia en **Reporting y Operaciones**, ac
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Carolinam477&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Carolinam477&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinam477&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Carolinam477&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carolinam477&theme=tokyonight&hide_border=false" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinam477&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Carolinam477&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Carolinam477&icon=0&color=0" />
+  </a>
+</p>
 
 
   <img src="https://visitcount.itsvg.in/api?id=Carolinam477&icon=0&color=0" />
