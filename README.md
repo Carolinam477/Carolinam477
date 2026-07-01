@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="URL_DE_TU_IMAGEN_AQUI" alt="Banner Data Analytics" width="100%">
-</p>
+<img width="1584" height="396" alt="Banner Data Analytis" src="https://github.com/user-attachments/assets/fc8b9dc6-e8cc-40c0-9866-86f88dc290b0" />
+
 
 
 # 💫 About Me:
@@ -16,7 +15,6 @@ Soy Carolina, una profesional con experiencia en **Reporting y Operaciones**, ac
   🤝Mi objetivo: Aportar valor real a través de la interpretación de la información y seguir construyendo soluciones que faciliten el trabajo diario.</li>
 </ul>
 
-<br>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Carolinam477) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dahiancarolinamuñozcelis) 
 
