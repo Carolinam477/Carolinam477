@@ -10,7 +10,7 @@ Soy Carolina, una profesional con experiencia en **Reporting y Operaciones**, ac
 
 
   ⚡Experiencia: Especialista en el diseño y seguimiento de KPIs y métricas clave, asegurando la calidad y precisión en el control operativo.
-  🌱Enfoque técnico:Experta en la gestión y análisis de bases de datos para transformar volúmenes de información en reportes claros y accionables.
+          🌱Enfoque técnico:Experta en la gestión y análisis de bases de datos para transformar volúmenes de información en reportes claros y accionables.
   🤝Objetivo:Potenciar mis competencias en Data Analytics para automatizar procesos, mejorar la visualización de datos y seguir aportando valor estratégico a través del       análisis.
 
 
