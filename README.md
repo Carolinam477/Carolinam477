@@ -29,22 +29,15 @@ Soy Carolina, una profesional con experiencia en **Reporting y Operaciones**, ac
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carolinam477&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carolinam477&theme=tokyonight&hide_border=false" width="45%"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Carolinam477&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinam477&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%"/>
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Carolinam477&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinam477&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Carolinam477&icon=0&color=0" />
-  </a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=Carolinam477&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
   <img src="https://visitcount.itsvg.in/api?id=Carolinam477&icon=0&color=0" />
