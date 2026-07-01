@@ -2,20 +2,51 @@
 
 
 # 💫 About Me:
-¡ Hola Bienvenido! <br><br>Soy Carolina<br><br>⚡ QA Engineer manual apasionada por la calidad y la resolución de problemas.<br>🌱Con sólidos conocimientos en diseño y ejecución de pruebas de software, como la creación casos de prueba efectivos<br>     basados en técnicas de análisis, clases de equivalencia, valores límite. <br>💬 Práctica básica en automatización de pruebas en aplicaciones web y móviles.<br>🤝 ¡Me encanta encontrar bugs para crear productos de alta calidad!<br>
+¡Hola! Bienvenida/o a mi espacio. Soy una profesional con experiencia en **Reporting y Operaciones**, actualmente enfocada en mi transición y especialización en el mundo de los **Datos**.
 
+⚡ **Mi enfoque:** Me especializo en limpiar, transformar y visualizar datos para ayudar a tomar decisiones más inteligentes y claras.
+🌱 **En constante aprendizaje:** Estoy ampliando mis habilidades en el análisis de datos, perfeccionando mis dashboards y explorando nuevas formas de contar historias a través de los datos.
+🤝 **Mi objetivo:** Aportar valor real a través de la interpretación de la información y seguir construyendo soluciones que faciliten el trabajo diario.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Carolinam477) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dahiancarolinamuñozcelis) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Carolinam477&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Carolinam477&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinam477&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Carolinam477&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carolinam477&theme=tokyonight&hide_border=false" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinam477&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Carolinam477&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Conectemos
+
+<div align="center">
+  <a href="https://linkedin.com/in/dahiancarolinamuñozcelis">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Carolinam477&icon=0&color=0" />
+</p>
+
+<p align="center">📍 Alicante, España</p>
