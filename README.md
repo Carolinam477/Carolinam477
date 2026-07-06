@@ -6,7 +6,7 @@
 
 Data Analyst con màs de dos años de experiencia en Reporting y análisis de KPIs.Actualmente especializada en Data Analytics mediante el bootcamp de Neoland, desarrollando proyectos con SQL, Python, Power BI, Tableau y Excel orientados a la toma de decisiones basada en datos.
 
- ⚡Experiencia: Especialista en el diseño y seguimiento de KPIs y métricas clave, asegurando la calidad y precisión en el control operativo. <br>🌱Enfoque técnico:Gestión y análisis de bases de datos para transformar volúmenes de información en informes claros y accionables.<br>🤝 Objetivo :Potenciar mis competencias en Data Analytics para automatizar procesos, mejorar la visualización de datos y seguir aportando valor estratégico a través del análisis.<br>
+ ⚡Experiencia: En el diseño y seguimiento de KPIs y métricas clave, asegurando la calidad y precisión en el control operativo. <br>🌱Enfoque técnico:Gestión y análisis de bases de datos para transformar volúmenes de información en informes claros y accionables.<br>🤝 Objetivo :Potenciar mis competencias en Data Analytics para automatizar procesos, mejorar la visualización de datos y seguir aportando valor estratégico a través del análisis.<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Carolinam477) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dahiancarolinamuñozcelis) 
